@@ -69,7 +69,7 @@ export const Footer = () => (
           <ul className="space-y-2 text-gray-400">
             <li className="flex items-center">
               <Mail className="w-5 h-5 text-blue-500 mr-2" />
-              <span>support@proxygate.com</span>
+              <span>support@GM.com</span>
             </li>
             <li className="flex items-center">
               <Phone className="w-5 h-5 text-blue-500 mr-2" />
@@ -89,7 +89,7 @@ export const Footer = () => (
       {/* Bottom Footer */}
       <div className="mt-8 border-t  pt-4 text-center">
         <p className="text-gray-400">
-          &copy; {new Date().getFullYear()} ProxyGate. All rights reserved.
+          &copy; {new Date().getFullYear()} GM. All rights reserved.
         </p>
       </div>
     </div>
